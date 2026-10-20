@@ -62,7 +62,7 @@ A prepared canvas, organized file naming, and regular review can improve daily i
 A structured illustration process combines planning, visual development, careful review, and orderly retention. This approach supports dependable digital art workflows.
 
 <div align="center">
-  <img src="https://skillbox.com/upload/setka_images/17291001042026_accf102caaa970ce65d217b9ae9a8e9a57caa67c.jpg" alt="Krita Screenshot"/>
+  <img src="https://habrastorage.org/getpro/habr/upload_files/5ef/0dd/001/5ef0dd001affd00fd76f67ae5d9df321.png" alt="Krita Screenshot"/>
 </div>
 
 ---
